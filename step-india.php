@@ -5,7 +5,7 @@
  * Author: S.T.E.P. Technologies
  * Author URI: http://step-india.com
  * License: GPL2
- * Version: 0.1
+ * Version: 0.2
  * Requires at least: 3.8
  * Tested up to: 4.1
  * @package WooCommerce Export Order
